@@ -1,0 +1,1 @@
+{    "fasta_files" : ["data/input.fasta", "data/input2.fasta"],    "output_file" : "cs_gen.fasta",    "output_descrip" : "Control Sequence",    "mark_param": 5,    "length" : 10,    "num_seq" : 10    }
