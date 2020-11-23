@@ -1,4 +1,5 @@
-<h1> control_seq_gen </h1> <br>
+# control_seq_gen
+
 **Overview**
 <p> Generates a set of control sequences from a set of reference sequences that are passed in. The goal is to maintain the statistical parameters (i.e. nucleotide composition) of the reference sequences without recapitulating the sites of interest. </p>
  
